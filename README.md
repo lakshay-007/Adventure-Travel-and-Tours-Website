@@ -1,16 +1,13 @@
 # Adventure-Travel-and-Tours-Website (Responsive)
 
-In this project, I have created a Completely Responsive Adventure Tours and Travel Website using html css sass and vanilla javascript tutorial for beginners.
+In this project, I have created a Completely Responsive Adventure Tours and Travel Website.
 
-the main feature of this website are:
-✅ responsive header section with navbar menu toggle and search bar using vanilla javascript.
-✅ responsive home touch slider using swiper.js.
-✅ responsive category section using css grid.
-✅ responsive about section using css flexbox.
-✅ responsive shop section with touch slider using swiper.js.
-✅ responsive packages section using css grid.
-✅ responsive review section with touch slider using swiper.js.
-✅ responsive services section using css grid.
-✅ responsive blogs section with touch slider using swiper.js.
-✅ responsive newsletter section.
-✅ responsive footer section using css grid.
+The main features of this website are:
+
+✔ Responsive Header section with navbar menu toggle and search bar using Vanilla Javascript, and Responsive Home touch slider using swiper.js.
+
+✔ Responsive Category section using CSS grid and About section using CSS flexbox.
+
+✔ Responsive Shop section, Review section and Blogs section with touch slider using swiper.js and Packages section using CSS grid.
+
+✔ Responsive Newsletter section, Services section and Footer section using CSS grid.
